@@ -1,6 +1,2 @@
-configuration:  
-  projectName: spring-boot-client
-server:  
-  port: 8000
 message:  
   greeting: I'm spring boot app!!!Hello from the Git configuration
